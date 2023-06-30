@@ -11,9 +11,9 @@ In this project, Python was used to explore data related to bike share systems f
 
 ### Files used
 bikeshare.py - final project
-chicago.zip - dataset used for analysis (zipped csv file)
-new_york_city.zip - dataset used for analysis (zipped csv file)
-washington.zip - dataset used for analysis (zipped csv file)
+chicago.zip - dataset used for analysis 
+new_york_city.zip - dataset used for analysis 
+washington.zip - dataset used for analysis 
 
 ### Credits
  The repository used can be find in: udacity/pdsnd_github
