@@ -14,8 +14,7 @@ bikeshare.py - final project
 chicago.zip - dataset used for analysis (zipped csv file)
 new_york_city.zip - dataset used for analysis (zipped csv file)
 washington.zip - dataset used for analysis (zipped csv file)
-bikeshare_2.py - final project
 
 ### Credits
-udacity/pdsnd_github
+ The repository used can be find in: udacity/pdsnd_github
 
