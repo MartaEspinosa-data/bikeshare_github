@@ -20,7 +20,7 @@ def get_filters():
     while True:
         city = input("Which city would you like to explore? Chicago, New york city or Washington?: ").lower()
         if city not in ["chicago", "new york city", "washington"]:
-            print("Sorry I didn't understand the city. Can you repeat it?")
+            print("Sorry I didn't understand the city. Can you repeat it, please?")
             continue
         else:
             break
