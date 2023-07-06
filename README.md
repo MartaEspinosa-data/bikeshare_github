@@ -14,5 +14,5 @@ In this project, Python was used to explore data related to bike share systems f
 - washington.zip - dataset used for analysis 
 
 ### Credits
- The repository used can be find in: udacity/pdsnd_github
+ The repository used can be found in: udacity/pdsnd_github
 
